@@ -20,7 +20,7 @@ Continuous Monitoring - Continuously observes the environment and updates decisi
 <img width="743" height="302" alt="image" src="https://github.com/user-attachments/assets/efcec93a-595a-42b7-b271-555c3f768533" />
 <img width="617" height="810" alt="image" src="https://github.com/user-attachments/assets/01b22099-86a1-4f45-bc63-6a9a7c42ea42" />
 
-#AI TECHNOLOGIES USED
+# AI TECHNOLOGIES USED
 
 Machine Learning (ML) – Learns driving patterns from large amounts of data.
 Deep Learning (DL) – Recognizes objects, roads, traffic signs, and pedestrians.
